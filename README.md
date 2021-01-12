@@ -1,0 +1,2 @@
+# UnityShaderGraphParticleSystemDissolveEffect
+UnityShaderGraphParticleSystemDissolveEffect
